@@ -1,0 +1,30 @@
+{
+  "name": "esri-javascript-4x-widgets.git",
+  "version": "0.0.1",
+  "description": "A package that provides custom widgets using Esri JavaScript API 4.x",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabanc/Esri-JavaScript-4x-Widgets.git"
+  },
+  "keywords": [
+    "GIS",
+    "Esri",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "author": "Fabien Ancelin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabanc/Esri-JavaScript-4x-Widgets/issues"
+  },
+  "homepage": "https://github.com/fabanc/Esri-JavaScript-4x-Widgets#readme",
+  "devDependencies": {
+    "@types/arcgis-js-api": "^4.9.0",
+    "dojo-typings": "^1.11.9",
+    "typescript": "^3.1.3"
+  }
+}
