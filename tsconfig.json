@@ -16,5 +16,15 @@
     ],
     "exclude": [
       "node_modules"
+    ],
+    "files": [
+      "./node_modules/dojo-typings/dojo/1.11/index.d.ts",
+      "./node_modules/dojo-typings/dojo/1.11/modules.d.ts",
+      "./node_modules/dojo-typings/dijit/1.11/index.d.ts",
+      "./node_modules/dojo-typings/dijit/1.11/modules.d.ts",
+      "./node_modules/dojo-typings/dojox/1.11/index.d.ts",
+      "./node_modules/dojo-typings/dojox/1.11/modules.d.ts",
+      "./node_modules/dojo-typings/custom/dgrid/1.1/dgrid.d.ts",
+      "./node_modules/dojo-typings/custom/dstore/1.1/dstore.d.ts"
     ]
   }
