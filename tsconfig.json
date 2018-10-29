@@ -9,10 +9,10 @@
       "experimentalDecorators": true,
       "preserveConstEnums": true,
       "suppressImplicitAnyIndexErrors": true,
-      "outDir": "./js"
+      "outDir": "js"
     },
     "include": [
-      "./ts/*"
+      "./ts/**/*"
     ],
     "exclude": [
       "node_modules"
